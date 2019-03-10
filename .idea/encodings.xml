@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoframework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demohttps" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demojdk8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demonetty" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demoquartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demospringmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demospringmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demothread" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demozull" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demozullservice" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/test/src/main/java/com/example/test/demo/ThreadPoolExecutorTest.java" line="14" />
+    <bookmark url="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/collection/ExtHashMap.java" line="13" />
+    <bookmark url="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/collection/ExtHashMap.java" line="133" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d871c437-8c5d-4d9d-affb-a14d8ba3de48" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/Delegate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/DelegateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/ExecuteA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/ExecuteB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/IExcuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/AbstractCarFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/AudiCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/AudiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/BmwCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/BmwFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/DefaultCarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/FactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/CloneUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/greatestsage" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/greatestsage/GreatestsageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple/ClonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple/StudentClon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/DDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExClassLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExMeipo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/Jeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/Persion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ProxyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/reflect/ReflectTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/sington/SingleGp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/BankBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/BankBussinessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/CheckOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/Push.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/exception" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/exception/RetryException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/IPersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/StudetnAct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/utils" afterDir="true" />
+      <change afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/utils/Env.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/example/test/demo/BeanCopyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/src/main/java/com/example/test/demo/Persion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demohttps/target/classes/com/jeb/https/demo/demo/DemohttpsApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/demohttps/target/classes/com/jeb/https/demo/demo/DemohttpsApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demohttps/target/classes/com/jeb/https/demo/demo/SslConfig$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/demohttps/target/classes/com/jeb/https/demo/demo/SslConfig$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/demojdk8/Demojdk8Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/adapter/clone" beforeDir="true" afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone" afterDir="true" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/PersionDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/PersionDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/moudle" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/sington" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/demojdk8/src/test/java/com/example/demojdk8/Demojdk8ApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/demojdk8/src/test/java/com/example/demojdk8/Demojdk8ApplicationTests.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/demohttps/target/" />
+    <ignored path="$PROJECT_DIR$/demozull/target/" />
+    <ignored path="$PROJECT_DIR$/demozullservice/target/" />
+    <ignored path="$PROJECT_DIR$/test/target/" />
+    <ignored path="$PROJECT_DIR$/demojdk8/target/" />
+    <ignored path="$PROJECT_DIR$/demoquartz/target/" />
+    <ignored path="$PROJECT_DIR$/demonetty/target/" />
+    <ignored path="$PROJECT_DIR$/demothread/target/" />
+    <ignored path="$PROJECT_DIR$/demoframework/target/" />
+    <ignored path="$PROJECT_DIR$/demospringmvc/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/CloneUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/strategy/StragetyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/adapter/Adapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/PersionBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/PersionDirector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/AmericaPersionBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/Persion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple/ClonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>interfaceClass</find>
+      <find>:</find>
+      <find>build</find>
+      <find>jar</find>
+      <find>demozull-1.0</find>
+      <find>tags</find>
+      <find>MathOperation</find>
+      <find>className.getName()</find>
+      <find>field.getType().getName();</find>
+      <find>`</find>
+      <find>classNames</find>
+      <find>ioc</find>
+      <find>handleMapping</find>
+      <find>getHandler</find>
+      <find>contextConfigLocation</find>
+      <find>Pattern</find>
+      <find>/books/</find>
+      <find>httpclient</find>
+      <find>ALGORITHOM</find>
+      <find>DEFAULT_PROVIDER</find>
+      <find>keyPairGen</find>
+      <find>RSA_PAIR_FILENAME</find>
+      <find>HexUtil</find>
+      <find>stringu</find>
+      <find>hashCode</find>
+      <find>threshold</find>
+      <find>stragegy</find>
+      <find>invoke</find>
+      <find>Retryable</find>
+      <find>Pointcut</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>DssgEnv</replace>
+      <replace>tag</replace>
+      <replace>demozull-1.0.release</replace>
+      <replace>className.getSimpleName()</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ProxyClass.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/Test.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExMeipo.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExTest.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExClassLoader.java" />
+        <option value="$PROJECT_DIR$/demojdk8/target/classes/com/example/designmodel/proxy/gupao/$Proxy0.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/es.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/DDD.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/proxy/gupao/ExProxy.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/reflect/ReflectTest2.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/sington/LazyHolder.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/sington/SingleGp.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/IExcuter.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/ExecuteA.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/ExecuteB.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/Delegate.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/DelegateTest.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/CarFactor.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/Car.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/AudiCar.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/BmwCar.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/AudiFactory.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/BmwFactory.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/AbstractCarFactor.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/DefaultCarFactory.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/FactoryTest.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/example/test/demo/Persion.java" />
+        <option value="$PROJECT_DIR$/test/src/main/java/com/example/test/demo/BeanCopyTest.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/Application.java" />
+        <option value="$PROJECT_DIR$/demojdk8/pom.xml" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/exception/RetryException.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/StudetnAct.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/IPersion.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/utils/Env.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/test/java/com/example/demojdk8/Demojdk8ApplicationTests.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/note.txt" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/Push.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/BankBusiness.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/CheckOut.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/BankBussinessTest.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/note.txt" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/Student.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple/Student.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple/ClonTest.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple/StudentClon.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/Student.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/greatestsage/GreatestsageTest.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/CloneUtil.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Book.java" />
+        <option value="$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/PersionDirector.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.0/libexec" />
+        <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.6.0/libexec/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="demozull" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="58" />
+    <option name="y" value="23" />
+    <option name="width" value="1594" />
+    <option name="height" value="958" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551920195237" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="D:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.designmodel.factory" />
+      <recent name="com.example.designmodel.sington" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demojdk8" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.designmodel.factory" />
+      <recent name="com.example.designmodel.delegate" />
+      <recent name="com.example" />
+      <recent name="com.example.designmodel.publishsubscribe" />
+      <recent name="com.example.demozullservice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\demo\demoframework\src\main\java\com\example\framework\utils" />
+      <recent name="E:\IdeaProjects\demo\demoquartz\src\main\java\com\example\demoquartz" />
+      <recent name="E:\IdeaProjects\demo\demoquartz\src\main\java\com\example\demoquartz\quartz" />
+      <recent name="E:\IdeaProjects\demo\demoquartz\src\main\resources" />
+      <recent name="E:\IdeaProjects\demo\demohttps\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GreatestsageTest">
+    <configuration name="BankBussinessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.designmodel.templete.gptemplete.BankBussinessTest" />
+      <module name="demojdk8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.designmodel.templete.gptemplete.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.designmodel.prototype.simple.ClonTest" />
+      <module name="demojdk8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.designmodel.prototype.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatestsageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.designmodel.prototype.greatestsage.GreatestsageTest" />
+      <module name="demojdk8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.designmodel.prototype.greatestsage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demojdk8ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demojdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demojdk8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demojdk8" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demojdk8.Demojdk8ApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demojdk8ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demojdk8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demojdk8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demojdk8" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demojdk8.Demojdk8ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoquartz [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+                <option value="-Dspring.profiles.active=quartz1" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/demoquartz" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="demoquartz2 [spring-boot:run] " type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+                <option value="-Dspring.profiles.active=quartz2" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/demoquartz" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="demozull [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/demozull" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="192.168.230.123quartz" type="Remote">
+      <module name="demoquartz" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="192.168.230.123" />
+      <option name="PORT" value="1234" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1234" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Remote">
+      <module name="demoquartz" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="192.168.230.123" />
+      <option name="PORT" value="1234" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demojdk8" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demoframework" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.framework.utils.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoFrameworkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demoframework" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.DemoFrameworkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemohttpsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demohttps" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jeb.https.demo.demo.DemohttpsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demojdk8Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demojdk8" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demojdk8.Demojdk8Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemonettyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demonetty" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demonetty.DemonettyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoquartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demoquartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demoquartz.DemoquartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemothreadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demothread" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demothread.DemothreadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemozullApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demozull" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demozull.DemozullApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemozullserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demozullservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demozullservice.DemozullserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.test.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BankBussinessTest" />
+      <item itemvalue="Application.ClonTest" />
+      <item itemvalue="Application.GreatestsageTest" />
+      <item itemvalue="JUnit.Demojdk8ApplicationTests" />
+      <item itemvalue="JUnit.Demojdk8ApplicationTests.contextLoads" />
+      <item itemvalue="Maven.demoquartz [spring-boot:run]" />
+      <item itemvalue="Maven.demoquartz2 [spring-boot:run] " />
+      <item itemvalue="Maven.demozull [spring-boot:run]" />
+      <item itemvalue="Remote.192.168.230.123quartz" />
+      <item itemvalue="Spring Boot.DemohttpsApplication" />
+      <item itemvalue="Spring Boot.DemozullApplication" />
+      <item itemvalue="Spring Boot.DemozullserviceApplication" />
+      <item itemvalue="Spring Boot.TestApplication" />
+      <item itemvalue="Spring Boot.Demojdk8Application" />
+      <item itemvalue="Spring Boot.DemoquartzApplication" />
+      <item itemvalue="Spring Boot.DemonettyApplication" />
+      <item itemvalue="Spring Boot.DemothreadApplication" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.DemoFrameworkApplication" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GreatestsageTest" />
+        <item itemvalue="Application.ClonTest" />
+        <item itemvalue="Application.BankBussinessTest" />
+        <item itemvalue="JUnit.Demojdk8ApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.Demojdk8ApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demoframework" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demoframework" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demohttps" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demohttps" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demojdk8" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demojdk8" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demonetty" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demonetty" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demoquartz" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demoquartz" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demospringmvc" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demospringmvc" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demothread" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demothread" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demozull" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demozull" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/demozullservice" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/demozullservice" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/test" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/test" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d871c437-8c5d-4d9d-affb-a14d8ba3de48" name="Default" comment="" />
+      <created>1540994786658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540994786658</updated>
+      <workItem from="1540994791763" duration="538000" />
+      <workItem from="1541210986489" duration="631000" />
+      <workItem from="1541211639443" duration="3920000" />
+      <workItem from="1541251844949" duration="40000" />
+      <workItem from="1541252142337" duration="1167000" />
+      <workItem from="1541253434243" duration="2460000" />
+      <workItem from="1541429514691" duration="1231000" />
+      <workItem from="1542194660662" duration="36000" />
+      <workItem from="1542194717508" duration="90000" />
+      <workItem from="1544102448829" duration="815000" />
+      <workItem from="1544103287947" duration="4238000" />
+      <workItem from="1544491395892" duration="1472000" />
+      <workItem from="1544494885570" duration="604000" />
+      <workItem from="1544683068110" duration="6984000" />
+      <workItem from="1544692204513" duration="2055000" />
+      <workItem from="1544696348587" duration="721000" />
+      <workItem from="1544704729708" duration="2883000" />
+      <workItem from="1545054141925" duration="262000" />
+      <workItem from="1545054520405" duration="3443000" />
+      <workItem from="1545095738755" duration="27044000" />
+      <workItem from="1545132940743" duration="2139000" />
+      <workItem from="1545187867479" duration="10091000" />
+      <workItem from="1545214299479" duration="2710000" />
+      <workItem from="1545269296911" duration="6438000" />
+      <workItem from="1545299227921" duration="1002000" />
+      <workItem from="1545388101126" duration="1280000" />
+      <workItem from="1545736425273" duration="1846000" />
+      <workItem from="1545818908712" duration="3761000" />
+      <workItem from="1545872853607" duration="1217000" />
+      <workItem from="1546093301970" duration="6836000" />
+      <workItem from="1546130976825" duration="107000" />
+      <workItem from="1546131102610" duration="55000" />
+      <workItem from="1546131174605" duration="259000" />
+      <workItem from="1546131447230" duration="8732000" />
+      <workItem from="1546146387002" duration="10293000" />
+      <workItem from="1546590986226" duration="772000" />
+      <workItem from="1546602169131" duration="723000" />
+      <workItem from="1547087462316" duration="360000" />
+      <workItem from="1547087843206" duration="1716000" />
+      <workItem from="1547089762201" duration="163000" />
+      <workItem from="1547098143033" duration="19894000" />
+      <workItem from="1547267179537" duration="7949000" />
+      <workItem from="1547344634340" duration="22664000" />
+      <workItem from="1547424156828" duration="3339000" />
+      <workItem from="1547470854526" duration="8604000" />
+      <workItem from="1547516228230" duration="7685000" />
+      <workItem from="1547646672143" duration="2562000" />
+      <workItem from="1547687848994" duration="1869000" />
+      <workItem from="1547732121436" duration="1166000" />
+      <workItem from="1547733335740" duration="3993000" />
+      <workItem from="1547863535258" duration="4974000" />
+      <workItem from="1548076956302" duration="5494000" />
+      <workItem from="1548163612132" duration="1430000" />
+      <workItem from="1548377549646" duration="2352000" />
+      <workItem from="1548586199233" duration="3510000" />
+      <workItem from="1548641067665" duration="1076000" />
+      <workItem from="1548683977744" duration="900000" />
+      <workItem from="1548722889575" duration="3565000" />
+      <workItem from="1548770907665" duration="2036000" />
+      <workItem from="1548835251874" duration="1145000" />
+      <workItem from="1548843992928" duration="539000" />
+      <workItem from="1548859652571" duration="3062000" />
+      <workItem from="1548940663750" duration="612000" />
+      <workItem from="1549775988158" duration="889000" />
+      <workItem from="1549781665923" duration="3451000" />
+      <workItem from="1549958037268" duration="9417000" />
+      <workItem from="1550151378044" duration="754000" />
+      <workItem from="1550323500704" duration="2469000" />
+      <workItem from="1550499130617" duration="1881000" />
+      <workItem from="1550581829615" duration="6340000" />
+      <workItem from="1550710841582" duration="3843000" />
+      <workItem from="1550758337831" duration="3098000" />
+      <workItem from="1550888647925" duration="14754000" />
+      <workItem from="1550927068539" duration="4014000" />
+      <workItem from="1551420919693" duration="14518000" />
+      <workItem from="1551618776710" duration="8011000" />
+      <workItem from="1551670189849" duration="3268000" />
+      <workItem from="1551748432953" duration="73000" />
+      <workItem from="1551794153149" duration="3334000" />
+      <workItem from="1551834355238" duration="1067000" />
+      <workItem from="1551839030611" duration="8270000" />
+      <workItem from="1551877816566" duration="7063000" />
+      <workItem from="1551919931706" duration="527000" />
+      <workItem from="1551922567994" duration="533000" />
+      <workItem from="1552202974913" duration="564000" />
+    </task>
+    <task id="LOCAL-00016" summary="metrics">
+      <created>1545269343270</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1545269343270</updated>
+    </task>
+    <task id="LOCAL-00017" summary="stopWatch">
+      <created>1545275968145</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1545275968145</updated>
+    </task>
+    <task id="LOCAL-00018" summary="异步处理">
+      <created>1545291770475</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1545291770475</updated>
+    </task>
+    <task id="LOCAL-00019" summary="功能列表">
+      <created>1545299454975</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1545299454975</updated>
+    </task>
+    <task id="LOCAL-00020" summary="添加version">
+      <created>1545299574498</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1545299574498</updated>
+    </task>
+    <task id="LOCAL-00021" summary="添加version">
+      <created>1545819358928</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1545819358928</updated>
+    </task>
+    <task id="LOCAL-00022" summary="rpc">
+      <created>1545832889254</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1545832889254</updated>
+    </task>
+    <task id="LOCAL-00023" summary="rpc">
+      <created>1546097813841</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1546097813841</updated>
+    </task>
+    <task id="LOCAL-00024" summary="rpc">
+      <created>1546097827628</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1546097827628</updated>
+    </task>
+    <task id="LOCAL-00025" summary="rpc">
+      <created>1546098672921</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1546098672921</updated>
+    </task>
+    <task id="LOCAL-00026" summary="rpc">
+      <created>1546099694820</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1546099694820</updated>
+    </task>
+    <task id="LOCAL-00027" summary="rpc">
+      <created>1546132858808</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1546132858809</updated>
+    </task>
+    <task id="LOCAL-00028" summary="rpc">
+      <created>1546136497062</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1546136497062</updated>
+    </task>
+    <task id="LOCAL-00029" summary="rpc">
+      <created>1546139257857</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1546139257857</updated>
+    </task>
+    <task id="LOCAL-00030" summary="rpc">
+      <created>1546140653587</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1546140653587</updated>
+    </task>
+    <task id="LOCAL-00031" summary="rpc">
+      <created>1546140886089</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1546140886089</updated>
+    </task>
+    <task id="LOCAL-00032" summary="rpc">
+      <created>1546141199994</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1546141199994</updated>
+    </task>
+    <task id="LOCAL-00033" summary="rpc">
+      <created>1546148155650</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1546148155650</updated>
+    </task>
+    <task id="LOCAL-00034" summary="controller">
+      <created>1546148583401</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1546148583401</updated>
+    </task>
+    <task id="LOCAL-00035" summary="update">
+      <created>1546149260707</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1546149260707</updated>
+    </task>
+    <task id="LOCAL-00036" summary="update">
+      <created>1546150919460</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1546150919460</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update">
+      <created>1546151165975</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1546151165975</updated>
+    </task>
+    <task id="LOCAL-00038" summary="update">
+      <created>1546152156964</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1546152156964</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update">
+      <created>1546152887562</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1546152887562</updated>
+    </task>
+    <task id="LOCAL-00040" summary="update">
+      <created>1546591005050</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1546591005050</updated>
+    </task>
+    <task id="LOCAL-00041" summary="update">
+      <created>1547087510902</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1547087510902</updated>
+    </task>
+    <task id="LOCAL-00042" summary="update">
+      <created>1547098897495</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1547098897495</updated>
+    </task>
+    <task id="LOCAL-00043" summary="update">
+      <created>1547270704434</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1547270704434</updated>
+    </task>
+    <task id="LOCAL-00044" summary="update">
+      <created>1547286989994</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1547286989994</updated>
+    </task>
+    <task id="LOCAL-00045" summary="update">
+      <created>1547369755925</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1547369755925</updated>
+    </task>
+    <task id="LOCAL-00046" summary="springmvc">
+      <created>1547425680799</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1547425680799</updated>
+    </task>
+    <task id="LOCAL-00047" summary="自定义注解">
+      <created>1547522416904</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1547522416904</updated>
+    </task>
+    <task id="LOCAL-00048">
+      <created>1547522492213</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1547522492213</updated>
+    </task>
+    <task id="LOCAL-00049">
+      <created>1547532482751</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1547532482751</updated>
+    </task>
+    <task id="LOCAL-00050">
+      <created>1548076979944</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1548076979945</updated>
+    </task>
+    <task id="LOCAL-00051">
+      <created>1548377569274</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1548377569274</updated>
+    </task>
+    <task id="LOCAL-00052">
+      <created>1548726670546</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1548726670546</updated>
+    </task>
+    <task id="LOCAL-00053">
+      <created>1548862529303</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1548862529304</updated>
+    </task>
+    <task id="LOCAL-00054">
+      <created>1549787936421</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1549787936421</updated>
+    </task>
+    <task id="LOCAL-00055">
+      <created>1549983460627</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1549983460627</updated>
+    </task>
+    <task id="LOCAL-00056">
+      <created>1549983492272</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1549983492272</updated>
+    </task>
+    <task id="LOCAL-00057">
+      <created>1550323562614</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1550323562615</updated>
+    </task>
+    <task id="LOCAL-00058">
+      <created>1550499158426</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1550499158427</updated>
+    </task>
+    <task id="LOCAL-00059">
+      <created>1550588537787</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1550588537788</updated>
+    </task>
+    <task id="LOCAL-00060">
+      <created>1550588548304</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1550588548304</updated>
+    </task>
+    <task id="LOCAL-00061">
+      <created>1550588605897</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1550588605897</updated>
+    </task>
+    <task id="LOCAL-00062" summary="发布订阅模式实现事件驱动模式">
+      <created>1550714736903</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1550714736904</updated>
+    </task>
+    <task id="LOCAL-00063" summary="发布订阅模式实现事件驱动模式">
+      <created>1550908494581</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1550908494581</updated>
+    </task>
+    <task id="LOCAL-00064" summary="发布订阅模式实现事件驱动模式">
+      <created>1550934618657</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1550934618658</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 13h 39m 44s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 13h 40m 48s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 13h 41m 45s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 13h 49m 01s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 14h 20m 00s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 14h 23m 01s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 14h 25m 34s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 14h 28m 20s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 14h 33m 42s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Demojdk8ApplicationTests_contextLoads - 2019.03.06 at 14h 34m 36s.xml">
+      <configuration name="Demojdk8ApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="329692000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="58" y="23" width="1594" height="958" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4893617" visible="true" weight="0.25162128" />
+      <window_info id="Structure" order="1" sideWeight="0.5106383" side_tool="true" weight="0.26928896" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5074135" side_tool="true" weight="0.25189108" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.4157044" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4969743" weight="0.49538106" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49924356" weight="0.41108546" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3294893" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.39144737" />
+      <window_info anchor="bottom" id="JRebel Console" order="9" sideWeight="0.50226927" side_tool="true" weight="0.4665127" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="11" weight="0.3290993" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49848714" weight="0.3360277" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49848714" weight="0.3047776" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" show_stripe_button="false" weight="0.32784185" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49848714" weight="0.4665127" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="17" weight="0.32894737" />
+      <window_info anchor="bottom" id="SonarLint" order="18" weight="0.32894737" />
+      <window_info anchor="bottom" id="Problems" order="19" />
+      <window_info anchor="bottom" id="JProfiler" order="20" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32977912" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="11" weight="0.13615733" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4893617" visible="true" weight="0.3464567" />
+      <window_info id="Structure" order="1" sideWeight="0.5106383" side_tool="true" weight="0.26928896" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5074135" side_tool="true" weight="0.25189108" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.18585527" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4969743" weight="0.3187067" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49924356" visible="true" weight="0.3152425" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3294893" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5030257" side_tool="true" weight="0.39144737" />
+      <window_info anchor="bottom" id="JRebel Console" order="9" sideWeight="0.50226927" side_tool="true" weight="0.46710527" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="11" weight="0.3290993" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49848714" weight="0.33717105" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49848714" weight="0.3047776" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49848714" weight="0.1674365" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" show_stripe_button="false" weight="0.32784185" />
+      <window_info anchor="bottom" id="Spring" order="16" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="17" weight="0.32894737" />
+      <window_info anchor="bottom" id="SonarLint" order="18" weight="0.32894737" />
+      <window_info anchor="bottom" id="Problems" order="19" />
+      <window_info anchor="bottom" id="JProfiler" order="20" />
+      <window_info anchor="right" id="Maven" order="0" weight="0.32977912" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Mongo Explorer" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="11" weight="0.13615733" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zull" />
+    <MESSAGE value="test module" />
+    <MESSAGE value="jdk8" />
+    <MESSAGE value="quartz" />
+    <MESSAGE value="metrics" />
+    <MESSAGE value="stopWatch" />
+    <MESSAGE value="异步处理" />
+    <MESSAGE value="功能列表" />
+    <MESSAGE value="添加version" />
+    <MESSAGE value="rpc" />
+    <MESSAGE value="controller" />
+    <MESSAGE value="update" />
+    <MESSAGE value="springmvc" />
+    <MESSAGE value="自定义注解" />
+    <MESSAGE value="发布订阅模式实现事件驱动模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="发布订阅模式实现事件驱动模式" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/demojdk8/interfaces/SomeThing.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/demojdk8/interfaces/MethodTest.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/io/FileTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/http/ZuulServlet.class</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/http/ZuulServlet.class</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/http/ZuulServlet.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/http/ZuulServlet.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0-sources.jar!/com/netflix/zuul/http/HttpServletRequestWrapper.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/web/ZuulController.class</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/web/ZuulController.class</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.9.RELEASE/spring-webmvc-5.0.9.RELEASE.jar!/org/springframework/web/servlet/mvc/ServletWrappingController.class</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SendForwardFilter.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SimpleHostRoutingFilter.java</url>
+          <line>210</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SimpleHostRoutingFilter.java</url>
+          <line>287</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SimpleHostRoutingFilter.java</url>
+          <line>303</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/route/SimpleHostRoutingFilter.java</url>
+          <line>326</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE-sources.jar!/org/springframework/cloud/netflix/zuul/filters/ProxyRequestHelper.java</url>
+          <line>280</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/src/main/java/com/example/test/demo/ThreadPoolExecutorTest.java</url>
+          <line>15</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/java/jdk1.8.0_60/src.zip!/java/util/concurrent/AbstractExecutorService.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demothread/src/main/java/com/example/demothread/future/FutureData.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/ExtListTest01.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.3.RELEASE/spring-context-5.1.3.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class</url>
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>c.newInstance(h)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.newInstance()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>method.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>interfaces.getSimpleName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>interfaces.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>file</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iterable</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>classFile</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/BmwCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/AudiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/factory/BmwFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/src/main/java/com/example/test/demo/BeanCopyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE.jar!/org/springframework/retry/annotation/Backoff.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE.jar!/org/springframework/retry/interceptor/Retryable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE.jar!/org/springframework/retry/annotation/Retryable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/interceptor/Retryable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/annotation/Backoff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="57" column="9" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/annotation/Retryable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/annotation/EnableRetry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/listener/RetryListenerSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/annotation/RecoverAnnotationRecoveryHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1395">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/interceptor/RetryInterceptorBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/RetryContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-536">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/RetryException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/context/RetryContextSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="77" column="30" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demozullservice/src/test/java/com/example/demozullservice/DemozullserviceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/demojdk8/Demojdk8Application.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="423" selection-start-line="423" selection-end-line="423" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/StudetnAct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" column="54" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/IPersion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/exception/RetryException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/retry/spring-retry/1.2.1.RELEASE/spring-retry-1.2.1.RELEASE-sources.jar!/org/springframework/retry/annotation/RetryConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5542">
+          <caret line="381" selection-start-line="381" selection-end-line="381" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/test/java/com/example/demojdk8/Demojdk8ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/utils/Env.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/Push.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/BankBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
+          <folding>
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/BankBussinessTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/note/txt.java" />
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/delegate/Delegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/templete/gptemplete/CheckOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/note.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/moudle/retry/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple/StudentClon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/greatestsage/GreatestsageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4998">
+          <caret line="328" column="6" selection-start-line="328" selection-start-column="6" selection-end-line="328" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/CloneUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/strategy/StragetyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/adapter/Adapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/PersionBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/AmericaPersionBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/Persion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/clone/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/prototype/simple/ClonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" selection-start-line="27" selection-end-line="27" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demojdk8/src/main/java/com/example/designmodel/builder/PersionDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demojdk8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

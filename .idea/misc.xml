@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demozull/pom.xml" />
+        <option value="$PROJECT_DIR$/demozullservice/pom.xml" />
+        <option value="$PROJECT_DIR$/demoquartz/pom.xml" />
+        <option value="$PROJECT_DIR$/demonetty/pom.xml" />
+        <option value="$PROJECT_DIR$/demojdk8/pom.xml" />
+        <option value="$PROJECT_DIR$/demohttps/pom.xml" />
+        <option value="$PROJECT_DIR$/demothread/pom.xml" />
+        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/demoframework/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://win-h5lava4jrer/svn/demo" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
