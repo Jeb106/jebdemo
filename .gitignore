@@ -25,7 +25,8 @@ hs_err_pid*
 #other
 *.ini
 /target
-/.idea
+/.idea/*
+./.idea/*
 *.iml
 *.ipr
 *.iws
