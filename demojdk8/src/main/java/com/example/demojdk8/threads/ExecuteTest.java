@@ -4,7 +4,6 @@ import com.google.common.util.concurrent.ThreadFactoryBuilder;
 import lombok.Data;
 import lombok.SneakyThrows;
 
-import java.util.Date;
 import java.util.List;
 import java.util.Vector;
 import java.util.concurrent.*;
@@ -16,7 +15,7 @@ import java.util.concurrent.*;
  * @author jinBiaoHu
  */
 @Data
-public class ExecuteTest {
+public class ExecuteTest extends Thread {
 	@SneakyThrows
 	public static void main(String[] args) {
 		//记录异常信息

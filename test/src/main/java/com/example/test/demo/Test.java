@@ -8,18 +8,10 @@ package com.example.test.demo;
  * 创建时间：2019-03-16 18:09
  */
 public class Test {
-    public static void main(String[] args) {
-        short s =1;
+    public static void main(String[] args) throws  Exception {
 
-        s = (short) (s+1);
-        s += 1;
-
-        String ss = "abc";
-        char[] chars = ss.toCharArray();
-        char c = chars[0];
-        System.out.println("byte:"+(byte)c);
-        System.out.println((int)c);
-
+        Class<?> aClass = Class.forName("ch.qos.logback.classic.db.DBAppender");
+        System.out.println(aClass.getName());
 
 
     }
