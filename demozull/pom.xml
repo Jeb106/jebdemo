@@ -31,10 +31,15 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <!--<dependency>-->
+            <!--<groupId>org.springframework.cloud</groupId>-->
+            <!--<artifactId>spring-cloud-starter-netflix-zuul</artifactId>-->
+            <!--<version>LATEST</version>-->
+        <!--</dependency>-->
         <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-zuul</artifactId>
-            <version>LATEST</version>
+            <groupId>com.caucho</groupId>
+            <artifactId>hessian</artifactId>
+            <version>4.0.38</version>
         </dependency>
 <!--      <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -45,7 +50,11 @@
             <groupId>org.jolokia</groupId>
             <artifactId>jolokia-core</artifactId>
         </dependency>-->
-
+        <dependency>
+            <groupId>com.example.framework</groupId>
+            <artifactId>demoFramework</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <distributionManagement>
