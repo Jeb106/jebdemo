@@ -61,6 +61,19 @@
     </distributionManagement>
     <repositories>
         <repository>
+            <id>maven-ali</id>
+            <url>http://maven.aliyun.com/nexus/content/groups/public//</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+                <updatePolicy>always</updatePolicy>
+                <checksumPolicy>fail</checksumPolicy>
+            </snapshots>
+        </repository>
+
+        <repository>
             <id>maven-public</id>
             <name>Fable Public Repository</name>
             <url>http://192.168.56.12:8081/repository/maven-public/</url>

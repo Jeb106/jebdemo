@@ -91,11 +91,6 @@
             <groupId>com.timgroup</groupId>
             <artifactId>java-statsd-client</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.readytalk</groupId>
-            <artifactId>metrics3-statsd</artifactId>
-            <version>4.2.0</version>
-        </dependency>
     </dependencies>
 
     <build>
