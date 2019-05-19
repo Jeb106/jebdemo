@@ -91,6 +91,11 @@
             <groupId>com.timgroup</groupId>
             <artifactId>java-statsd-client</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.qubole.rubix</groupId>
+            <artifactId>rubix-common</artifactId>
+            <version>0.3.3.1</version>
+        </dependency>
     </dependencies>
 
     <build>
