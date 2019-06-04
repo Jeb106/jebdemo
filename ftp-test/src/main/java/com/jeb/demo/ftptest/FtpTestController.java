@@ -26,6 +26,13 @@ public class FtpTestController {
 
 	@Autowired
 	Environment environment;
+	@RequestMapping("/testStatic")
+	public void testStatic(){
+		StaticTest.test();
+		log.info(StaticTest.name);
+
+
+	}
 
 
 	@RequestMapping("/changeDir")
