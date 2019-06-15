@@ -1,10 +1,16 @@
 package com.jeb.demo.ftptest;
 
+import com.fable.common.etl.kettle.DatabaseMetaBase;
+import com.fable.common.etl.kettle.bean.DatabaseConn;
 import com.fable.common.etl.kettle.bean.FtpConn;
+import com.fable.common.util.DBUtil;
 import com.fable.common.util.EtlUtil;
 import com.fable.common.util.FtpUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.net.ftp.FTPClient;
+import org.pentaho.di.core.database.Database;
+import org.pentaho.di.core.database.DatabaseMeta;
+import org.pentaho.di.core.exception.KettleDatabaseException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -26,10 +32,24 @@ public class FtpTestController {
 
 	@Autowired
 	Environment environment;
-	@RequestMapping("/testStatic")
+	@RequestMapping("/checkTableExists")
 	public void testStatic(){
-		StaticTest.test();
-		log.info(StaticTest.name);
+		Database db = null;
+		DatabaseConn dbConn = new DatabaseConn("192.168.90.43", "Oracle","orcl",
+				"1521"+ "","fable2", "fable2");
+		DatabaseMeta databaseMeta = new DatabaseMetaBase(dbConn.getDatabase(), dbConn.getType(), "0",
+				dbConn.getServer(),
+				dbConn.getDatabase(), dbConn.getPort(), dbConn.getUsername(), dbConn.getPassword());
+		db = new Database(null, databaseMeta);
+		try {
+			DBUtil.connect(db);
+			String destTable1 = "T_TEST_PIC_JEB";
+			boolean destTable = db.checkTableExists(destTable1);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		} catch (KettleDatabaseException e) {
+			e.printStackTrace();
+		}
 
 
 	}
