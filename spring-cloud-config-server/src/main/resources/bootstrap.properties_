@@ -1,0 +1,9 @@
+spring.application.name=spring-cloud-config
+server.port=9090
+spring.cloud.config.server.git.uri=https://github.com/Jeb106/spring-cloud-config-sample.git
+spring.cloud.config.server.git.search-paths ='{application}'
+
+# 全局关闭权限控制
+#management.security.enabled=false
+# 细粒度控制
+endpoints.env.sensitive=false

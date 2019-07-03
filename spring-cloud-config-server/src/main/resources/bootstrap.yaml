@@ -10,3 +10,9 @@ spring:
           search-paths: '{application}'
   application:
     name: spring-cloud-config
+
+endpoints:
+  env:
+    sensitive: false
+  refresh:
+    sensitive: false
