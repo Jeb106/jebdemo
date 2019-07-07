@@ -18,6 +18,7 @@ public class ExecuteTest3 {
     public static void main(String[] args) {
         ExecuteTest3 executeTest3 = new ExecuteTest3();
         executeTest3.execute();
+
     }
 
     public void execute() {
@@ -40,6 +41,7 @@ public class ExecuteTest3 {
         }, 0, 5, TimeUnit.SECONDS);
 
 
+        executorService.shutdown();
 
     }
 
