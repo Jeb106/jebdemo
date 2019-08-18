@@ -19,7 +19,7 @@ public class Demojdk8ApplicationTests {
 //	private StudetnAct studetnAct ;
 
 //
-//	@Test
+//	@CountDownLatchTest
 //	public void contextLoads() throws Exception {
 //
 //		studetnAct.run(1);
