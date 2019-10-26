@@ -51,13 +51,16 @@ public class DemoController {
 
 	}
 
-	@Autowired
-	private SyncTest syncTest;
+//	@Autowired
+//	private SyncTest syncTest;
 	@RequestMapping("test2/")
-	public Boolean test2(){
-		System.out.println("runngin start");
-		syncTest.syncTest();
-	    System.out.println("runngin end");
+	public Boolean test2() throws ClassNotFoundException {
+		BaseMessageEvent baseMessageEventBack = new BaseMessageEvent();
+		ListenAndSendMessage.sendMessage(baseMessageEventBack);
+//		log.info("runngin star");
+//		System.out.println("runngin start:"+Thread.currentThread().getName());
+//		syncTest.syncTest();
+//	    System.out.println("runngin end:"+Thread.currentThread().getName());
 	    return true;
 
 	}

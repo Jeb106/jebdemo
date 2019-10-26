@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 @Component
 public class SimpleScheduleTasks implements Job {
 	SimpleDateFormat sdf= new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-	//@Scheduled(cron = "*/10 * *  * * * ")
+	@Scheduled(cron = "0/15 * *  * * * ")
 	public void reportCurrentTime() {
 		System.out.println(Thread.currentThread().getName() + " ===> Scheduling Tasks Examples: The time is now " +
 				sdf.format(new Date()));

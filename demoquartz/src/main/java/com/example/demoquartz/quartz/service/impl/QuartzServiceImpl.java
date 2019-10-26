@@ -3,16 +3,12 @@ package com.example.demoquartz.quartz.service.impl;
 import com.example.demoquartz.quartz.SchedulerManager;
 import com.example.demoquartz.quartz.dto.JobBean;
 import com.example.demoquartz.quartz.service.QuartzService;
-import com.example.demoquartz.task.SimpleScheduleTasks;
 import com.example.demoquartz.task.SubscribeTask;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
-import java.util.UUID;
 
 /**
  * 版权：Copyright © Fable  Data Technology NanJing Co , Ltd.
@@ -29,7 +25,7 @@ public class QuartzServiceImpl implements QuartzService {
 	@Override
 	public boolean addJobs() {
 
-		addJob( "0/5 * * * * ?",SimpleScheduleTasks.class);
+		// addJob( "* 0/5 * * * ?",SimpleScheduleTasks.class);
 
 		return true;
 	}
