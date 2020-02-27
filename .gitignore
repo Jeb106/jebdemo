@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+.idea
 # Log file
 *.log
 
@@ -26,6 +26,8 @@ hs_err_pid*
 *.ini
 /target
 /.idea/*
+*/.idea/
+.idea
 ./.idea/*
 *.iml
 *.ipr
