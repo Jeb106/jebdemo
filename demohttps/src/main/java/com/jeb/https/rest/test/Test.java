@@ -34,13 +34,16 @@ public class Test {
 		 */
 
 		/**下面测试接口 */
-		String url = "https://192.168.10.52:9020/gateway/local/restService/18e5eb88bf484771800fabbe860167e3";
-		String param="{\"page\":1,\"pageSize\":20,\"conditions\":{\"id\": \"0006af4e06ff4baaa57b533b9151197f\"}}";
-		String header="[{\"name\":\"x-auth-token\",\"value\":\"49B53928DE0B4311B7BA767F87CD07B0\"}]";
+		String url = "https://192.168.20.42/insightview/styw/listResultInfo";
+		String param="";
+		String header="";
+//		String param="{\"page\":1,\"pageSize\":20,\"conditions\":{\"id\": \"0006af4e06ff4baaa57b533b9151197f\"}}";
+//		String header="[{\"name\":\"x-auth-token\",\"value\":\"49B53928DE0B4311B7BA767F87CD07B0\"}]";
+
 
 
 	//	HttpUtils.doGet("http://192.168.90.42:8085/getTenDataInfo?size=10","");
-		HttpUtils.doPost(url,param,header);
+		HttpUtils.doPostSsl(url,param,header);
 
 	}
 }

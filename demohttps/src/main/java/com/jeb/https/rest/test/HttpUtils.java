@@ -90,7 +90,7 @@ public class HttpUtils {
 	 * @param headers
 	 */
 
-	public static void doGet(String url,String headers){
+	public static void doGetSsl(String url,String headers){
 
 		CloseableHttpClient client;
 		try
@@ -128,7 +128,7 @@ public class HttpUtils {
 	}
 
 
-	public static void doPost(String url,String  param,String headers){
+	public static void doPostSsl(String url,String  param,String headers){
 
 		CloseableHttpClient client;
 		try
