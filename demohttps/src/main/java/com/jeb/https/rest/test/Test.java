@@ -13,8 +13,8 @@ import org.apache.log4j.PropertyConfigurator;
  *  token:过一段时间会过期 需要重新获取
  *  param: 必须是json格式字符串
  *  header:[{"name":"token","value":"111"}] 必须是json格式字符串，name:header参数对名字，value:header的值
- *  HttpUtils.doPost(url,param,header)  : 里面三个参数可以定义成变量，也可以直接写在调用方法中，如果批量调用，param 参数采用下面这种写法
- *  HttpUtils.doPost(url,"{\"page\":1,\"pageSize\":20,\"conditions\":{\"id\": \"0006af4e06ff4baaa57b533b9151197f\"}}",header);
+ *  ZwwHttpUtils.doPost(url,param,header)  : 里面三个参数可以定义成变量，也可以直接写在调用方法中，如果批量调用，param 参数采用下面这种写法
+ *  ZwwHttpUtils.doPost(url,"{\"page\":1,\"pageSize\":20,\"conditions\":{\"id\": \"0006af4e06ff4baaa57b533b9151197f\"}}",header);
  */
 public class Test {
 	public static void main(String[] args) {
@@ -30,7 +30,7 @@ public class Test {
 		//根据实际情况填写
 		String appKey =  "";
 		String secretKey = "";
-		HttpUtils.getToken(tokenUrl,appKey,secretKey);
+		ZwwHttpUtils.getToken(tokenUrl,appKey,secretKey);
 		 */
 
 		/**下面测试接口 */
@@ -42,8 +42,8 @@ public class Test {
 
 
 
-	//	HttpUtils.doGet("http://192.168.90.42:8085/getTenDataInfo?size=10","");
-		HttpUtils.doPostSsl(url,param,header);
+	//	ZwwHttpUtils.doGet("http://192.168.90.42:8085/getTenDataInfo?size=10","");
+		ZwwHttpUtils.doPostSsl(url,param,header);
 
 	}
 }

@@ -41,7 +41,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class HttpUtils {
+public class ZwwHttpUtils {
 	public static void getToken(String url,String appKey, String secretKey){
 		List<NameValuePair> pairs = new ArrayList<NameValuePair>();
 		pairs.add(new BasicNameValuePair("grant_type", "client_credentials"));
@@ -58,9 +58,9 @@ public class HttpUtils {
 //			client = HttpClients.custom().setSSLSocketFactory(sslSocketFactory).build();
 
 			/** 获取client方式二：绕过ssl校验 */
-			//client =HttpUtils.acceptsUntrustedCertsHttpClient();
+			//client =ZwwHttpUtils.acceptsUntrustedCertsHttpClient();
 			/**获取client方法三 绕过ssl校验 */
-			client =HttpUtils.getIgnoeSSLClient();
+			client = ZwwHttpUtils.getIgnoeSSLClient();
 			URIBuilder uriBuilder = new URIBuilder(url);
 			HttpPost httpPost = new HttpPost(uriBuilder.build());
 			httpPost.setEntity(new UrlEncodedFormEntity(pairs, "UTF-8"));
@@ -102,9 +102,9 @@ public class HttpUtils {
 //			client = HttpClients.custom().setSSLSocketFactory(sslSocketFactory).build();
 
 			/** 获取client方式二：绕过ssl校验 */
-			//client =HttpUtils.acceptsUntrustedCertsHttpClient();
+			//client =ZwwHttpUtils.acceptsUntrustedCertsHttpClient();
 			/**获取client方法三 绕过ssl校验 */
-			client =HttpUtils.getIgnoeSSLClient();
+			client = ZwwHttpUtils.getIgnoeSSLClient();
 			URIBuilder uriBuilder = new URIBuilder(url);
 			HttpGet httpGet = new HttpGet(uriBuilder.build());
 			httpGet.addHeader("Content-Type", "application/json");
@@ -140,9 +140,9 @@ public class HttpUtils {
 //			client = HttpClients.custom().setSSLSocketFactory(sslSocketFactory).build();
 
 			/** 获取client方式二：绕过ssl校验 */
-			//client =HttpUtils.acceptsUntrustedCertsHttpClient();
+			//client =ZwwHttpUtils.acceptsUntrustedCertsHttpClient();
 			/**获取client方法三 绕过ssl校验 */
-			client =HttpUtils.getIgnoeSSLClient();
+			client = ZwwHttpUtils.getIgnoeSSLClient();
 			URIBuilder uriBuilder = new URIBuilder(url);
 			HttpPost httpPost = new HttpPost(uriBuilder.build());
 			httpPost.addHeader("Content-Type", "application/json");

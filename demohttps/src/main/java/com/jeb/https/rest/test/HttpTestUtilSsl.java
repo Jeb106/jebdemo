@@ -8,8 +8,14 @@ import com.arronlong.httpclientutil.HttpClientUtil;
 import com.arronlong.httpclientutil.builder.HCB;
 import com.arronlong.httpclientutil.common.HttpConfig;
 import org.apache.commons.lang.StringUtils;
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicHeader;
+
+import java.io.IOException;
 
 /**
  * @ClassName：TestUtil
@@ -75,6 +81,15 @@ public class HttpTestUtilSsl {
 		} catch (Exception e) {
 
 		}
+	}
+
+	public static void main(String[] args) throws IOException {
+		String url = "http://192.168.90.22:9010/gateway/third/restService/910371e468cc46589efe51d2ed62699c";
+		HttpClient client = HttpClients.createDefault();
+		HttpGet get = new HttpGet(url);
+		HttpResponse response = client.execute(get);
+		HttpEntity entity = response.getEntity();
+		System.out.println(entity);
 	}
 
 }
