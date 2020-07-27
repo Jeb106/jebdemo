@@ -44,6 +44,7 @@ public class ControllerTest {
 
 
 	public static String   out(int value){
+		System.out.println("log1");
 		if (value > 0) {
 			return "success";
 		} else {
