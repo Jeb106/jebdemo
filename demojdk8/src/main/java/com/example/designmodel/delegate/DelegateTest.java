@@ -9,6 +9,8 @@ package com.example.designmodel.delegate;
  */
 
 /**
+ * 委派模式
+ *
  * 类比：项目经理和普通员工
  * 项目经理：安排工作
  * 普通员工：执行任务

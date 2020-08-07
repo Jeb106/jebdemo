@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * 文件名：CountDownLatchTest
  * 版权：Copyright © Fable Data Technology NanJing Co , Ltd.
- * 描述：〈一句话功能简述〉
+ * 描述：责任链模式
  * 创建人： huJb
  * 创建时间：2019-04-24 22:10
  */

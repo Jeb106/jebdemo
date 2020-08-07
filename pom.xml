@@ -6,7 +6,6 @@
     <modules>
         <module>demospringmvc</module>
         <module>demo-web-socket</module>
-        <module>lib</module>
         <module>hadoop</module>
     </modules>
     <parent>
